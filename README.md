@@ -1,16 +1,15 @@
-# Policy Genome · AI Recommendation Monitor
+# Policy Genome · Projects
 
-Public report: https://policygenome-source.github.io/Narrative-monitor-marketing/reports/overview.html
+GitHub Pages serves this catalogue from `gh-pages` (root).
 
-The public version includes reports and the Evidence explorer. Bulk CSV, ZIP and NotebookLM Markdown files are not part of the current publication.
+- Bolt in Warsaw, audit date 2026-09-28: `projects/bolt-warsaw-20260928/`
+- Original presentation: `v0.1/reports/overview.html`
+- Current presentation: `v0.2/reports/overview.html`
 
-NotebookLM chat: https://notebook.google.com/notebook/c7051464-df81-4f9f-bde8-e9f40da246e3/preview
-Notebook permissions are controlled by its owner.
+The previously shared `reports/overview.html` URL redirects to the original presentation.
+Legacy answer URLs preserve query parameters and fragments. The version selector preserves
+matching pages; pages unavailable in the other version open its Overview.
 
-GitHub Pages deploys `gh-pages`, `/ (root)`. The `main` branch stores the site in `docs/`.
-
-All HTML pages request no indexing. This is a public repository; noindex is not access control. Previously published files may remain in Git history.
-
-No collector code, environment files, credentials or SQLite database are published.
-
-By https://policygenome.org
+New projects have separate folders under `projects/` and entries in `projects.json`.
+Version 0.2 contains the public report only. CSV, database, NotebookLM files,
+collector code and private client exports are excluded.
