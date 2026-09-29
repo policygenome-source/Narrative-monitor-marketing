@@ -1,5 +1,7 @@
 # Policy Genome · Projects
 
+The Bolt in Warsaw audit is an independent research prototype. It was not commissioned by Bolt and is not affiliated with Bolt.
+
 GitHub Pages serves this catalogue from `gh-pages` (root).
 
 - Bolt in Warsaw, audit date 2026-09-28: `projects/bolt-warsaw-20260928/`

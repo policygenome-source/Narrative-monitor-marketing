@@ -1,5 +1,7 @@
 **AI Recommendation Monitor · Bolt in Warsaw**
 
+Independent research prototype. Not commissioned by or affiliated with Bolt.
+
 **Bolt leads everyday rides overall. Airport travel, solo night rides and Polish everyday answers need attention.**
 
 **Everyday rides**
