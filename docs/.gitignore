@@ -1,0 +1,8 @@
+.env
+.env.*
+*.sqlite
+*.sqlite-*
+*.db
+*.pem
+*.key
+.DS_Store
