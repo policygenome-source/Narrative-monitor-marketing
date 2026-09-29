@@ -30,3 +30,5 @@ Uber pages appeared with 41 answers; Bolt pages with 22.
 3. Update Bolt’s rider-safety pages with Warsaw-specific feature instructions.
 
 [Read the report](reports/overview.html) · [Actions ideas](reports/actions.html)
+
+[Browse answers](reports/evidence.html)

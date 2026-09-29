@@ -13,5 +13,6 @@ Legacy answer URLs preserve query parameters and fragments. The version selector
 matching pages; pages unavailable in the other version open its Overview.
 
 New projects have separate folders under `projects/` and entries in `projects.json`.
-Version 0.2 contains the public report only. CSV, database, NotebookLM files,
+Version 0.2 includes Answers with filters, full model replies and returned sources.
+CSV, database, NotebookLM files,
 collector code and private client exports are excluded.
